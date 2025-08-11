@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c3a1ddd51aafa90408be9fb14b2f266e
+  - enabled: 1
+    path: Assets/Scenes/PortalHall.unity
+    guid: fcd72a906e79a914db2c82a6617497a6
+  - enabled: 1
+    path: Assets/Scenes/Alleyway.unity
+    guid: d434bd2641b40864e82b1a1b30f293f8
+  - enabled: 1
+    path: Assets/Scenes/PortalIndustrialFuture.unity
+    guid: 6378082c3f0299940b2d7d90d551732e
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: 38d12451e1814bd42895f1ed0d2d37bd
+  - enabled: 1
+    path: Assets/Scenes/PoolDimension.unity
+    guid: 78bcca0df84c22f48ae51b42298f00d2
+  - enabled: 0
+    path: Assets/Scenes/FarFuture.unity
+    guid: 04c03baf5ac270f4888fd99bb2a7c10a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: d284c099b86ed6446b7895cf536e02ef,
+      type: 3}
+  m_UseUCBPForAssetBundles: 0

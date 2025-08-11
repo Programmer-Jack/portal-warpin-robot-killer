@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 265a74c0107e1414c852c23c034b05c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _warpSceneLoaderPrefab: {fileID: 2645470756479488812, guid: 0f072f99e2b0dfe4ca8724797538a724,
+      type: 3}
+  - _loadingScreen: {instanceID: 0}
+  - _canvasGroupFadeTarget: {instanceID: 0}
+  - _customPassMatFadeTarget: {instanceID: 0}
+  - _loadingBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

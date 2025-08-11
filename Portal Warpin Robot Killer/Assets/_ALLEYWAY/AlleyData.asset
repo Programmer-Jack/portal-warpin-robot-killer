@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306f1253245eef34cb564db988cff988, type: 3}
+  m_Name: AlleyData
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  introAudio: {fileID: 8300000, guid: c255fe022a74d2a409bb7aeba3b9dfd7, type: 3}
+  winAudio: {fileID: 8300000, guid: 2dc5fe288ab9b37498d30275dca7b8f6, type: 3}
+  introCaption: Hello! Can ya hear me? I'm your faceless, nameless narrator, but
+    you can call me Craig! In your hand is a gun, and over there is a robot! Use
+    that gun to kill the robot before it kills you!
+  winCaption: "Now that you've evaded mechanical mugging, go ahead and search the
+    alley and see if you can find yourself a portal \u2014 and then jump into it."
